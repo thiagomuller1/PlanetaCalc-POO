@@ -1,4 +1,4 @@
-// Feito por Lucas Daniel Gomes e Rennan Beck
+
 public class CalculoPesoPlaneta {
     public static void main(String[] args) {
         SwitchPlanet switchPlanet = new SwitchPlanet();
